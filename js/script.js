@@ -44,6 +44,5 @@ function timeTrack() {
     $("#hour-14 .description").val(localStorage.getItem("hour-14"));
     $("#hour-15 .description").val(localStorage.getItem("hour-15"));
 
-
     timeTrack();
 })
